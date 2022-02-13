@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: JiangSelection
+theme: readthedocs
+
+nav:
+    - Home: index.md
+    - Project: project.md
+    - Researchers: researchers.md
+    - Articles: articles.md
+    - Ontologies: ontologies.md
+    - Measures: measures.md
+    - Transfer_learning: transfer_learning.md
+    - Algorithms: algorithms.md
