@@ -28,10 +28,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ![The San Juan Mountains are beautiful!](img/san-juan-mountains.jpg "San Juan Mountains")
 
-
 |  Exemplo  | Valor do exemplo |
 |:---------:|:----------------:|
 | Exemplo 1 |      R$ 10       |
 | Exemplo 2 |       R$ 8       |
 | Exemplo 3 |       R$ 7       |
 | Exemplo 4 |       R$ 8       |
+
